@@ -1,13 +1,13 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="https://manoj1408.github.io/" target="_blank">manoj.tech</a>
+  <a href="https://manoj1408.github.io/Portfolio/" target="_blank">manoj.tech</a>
 </h2>
 
 <br/>
 
 <center>
 
-![Screenshot 2024-08-19 160200](https://github.com/user-attachments/assets/f8727a28-6195-460f-8903-85a94682287c)
+![Screenshot 2024-08-19 160727](https://github.com/user-attachments/assets/050b6f71-692d-42f9-9416-9dd0132d1db9)
 
 </center>
 
@@ -16,11 +16,9 @@
 This project was built using these technologies.
 
 - React.js
-- Node.js
-- Express.js
+- Javascript
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
